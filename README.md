@@ -84,7 +84,7 @@ This project was built to strengthen programming fundamentals while applying **O
 ## 🏠 Main Menu
 
 <p align="center">
-<img src="screenshots/main-menu.png" width="850">
+<img src="screenshots/Main%20menu.png" width="850">
 </p>
 
 ---
@@ -92,7 +92,7 @@ This project was built to strengthen programming fundamentals while applying **O
 ## 👤 Enter Your Name
 
 <p align="center">
-<img src="screenshots/name-entry.png" width="850">
+<img src="screenshots/Name%20Entry.png" width="850">
 </p>
 
 ---
@@ -100,7 +100,7 @@ This project was built to strengthen programming fundamentals while applying **O
 ## 🚗 Choose Your Car
 
 <p align="center">
-<img src="screenshots/choose-car.png" width="850">
+<img src="screenshots/Choose%20Car.png" width="850">
 </p>
 
 ---
@@ -108,7 +108,7 @@ This project was built to strengthen programming fundamentals while applying **O
 ## 🎨 Choose Car Color
 
 <p align="center">
-<img src="screenshots/choose-color.png" width="850">
+<img src="screenshots/Car%20color.png" width="850">
 </p>
 
 ---
@@ -116,7 +116,7 @@ This project was built to strengthen programming fundamentals while applying **O
 ## 🎮 Gameplay
 
 <p align="center">
-<img src="screenshots/gameplay.png" width="850">
+<img src="screenshots/Gameplay.png" width="850">
 </p>
 
 ---
@@ -124,7 +124,7 @@ This project was built to strengthen programming fundamentals while applying **O
 ## 💥 Game Over
 
 <p align="center">
-<img src="screenshots/game-over.png" width="850">
+<img src="screenshots/Game%20Over.png" width="850">
 </p>
 
 ---
@@ -132,11 +132,8 @@ This project was built to strengthen programming fundamentals while applying **O
 ## 📖 Instructions
 
 <p align="center">
-<img src="screenshots/instructions.png" width="850">
+<img src="screenshots/Instructions.png" width="850">
 </p>
-
----
-
 # 🎮 Controls
 
 | Key | Action |
