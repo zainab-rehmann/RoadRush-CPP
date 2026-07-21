@@ -128,10 +128,10 @@ private:
     char car[4][4];
 public:
     char car1[4][4] = {
-        {' ', '±', '±', ' '},
-        {'±', '±', '±', '±'},
-        {' ', '±', '±', ' '},
-        {'±', '±', '±', '±'}
+        {' ', 'Â±', 'Â±', ' '},
+        {'Â±', 'Â±', 'Â±', 'Â±'},
+        {' ', 'Â±', 'Â±', ' '},
+        {'Â±', 'Â±', 'Â±', 'Â±'}
     };
 
     char car2[4][4] = {
@@ -386,10 +386,10 @@ int selectCar() {
     SetConsoleTextAttribute(console, 11);
 
     gotoxy(WIN_WIDTH / 4, 5); cout << "1.";
-    gotoxy(WIN_WIDTH / 4 + 3, 5); cout << " ±± ";
-    gotoxy(WIN_WIDTH / 4 + 3, 6); cout << "±±±±";
-    gotoxy(WIN_WIDTH / 4 + 3, 7); cout << " ±± ";
-    gotoxy(WIN_WIDTH / 4 + 3, 8); cout << "±±±±";
+    gotoxy(WIN_WIDTH / 4 + 3, 5); cout << " Â±Â± ";
+    gotoxy(WIN_WIDTH / 4 + 3, 6); cout << "Â±Â±Â±Â±";
+    gotoxy(WIN_WIDTH / 4 + 3, 7); cout << " Â±Â± ";
+    gotoxy(WIN_WIDTH / 4 + 3, 8); cout << "Â±Â±Â±Â±";
 
     gotoxy(WIN_WIDTH / 4 + 20, 5); cout << "2.";
     gotoxy(WIN_WIDTH / 4 + 23, 5); cout << " ** ";
