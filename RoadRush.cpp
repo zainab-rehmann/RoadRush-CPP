@@ -96,7 +96,7 @@ public:
         gotoxy(WIN_WIDTH / 4, 4); cout << "=========== INSTRUCTIONS ===========";
         SetConsoleTextAttribute(console, 15);
         gotoxy(WIN_WIDTH / 4, 6); cout << "1. Avoid incoming cars on the track.";
-        gotoxy(WIN_WIDTH / 4, 7); cout << "2. Move using 'A' (Left) and 'D' (Right).";
+        gotoxy(WIN_WIDTH / 4, 7); cout << "2. Move using 'A' (Left) and 'L' (Right).";
         gotoxy(WIN_WIDTH / 4, 8); cout << "3. Press 'ESC' to quit during gameplay.";
         gotoxy(WIN_WIDTH / 4, 10);
         SetConsoleTextAttribute(console, 14);
