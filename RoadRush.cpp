@@ -6,8 +6,11 @@
 #include <fstream>
 #pragma comment(lib, "winmm.lib")
 
-#define SCREEN_HEIGHT 26
-#define WIN_WIDTH 100
+// #define SCREEN_HEIGHT 26 
+// #define WIN_WIDTH 100
+
+#define SCREEN_HEIGHT 30
+#define WIN_WIDTH 120
 
 using namespace std;
 
